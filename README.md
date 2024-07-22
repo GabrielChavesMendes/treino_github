@@ -1,4 +1,4 @@
 
 # Treinando github
 
-Teste
+Aprendendo do básico ao avançado sobre git e github
